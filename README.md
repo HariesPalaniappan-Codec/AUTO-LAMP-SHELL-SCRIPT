@@ -21,7 +21,6 @@ A Shell Script Automatically installs Laravel, Apache, MySQL, PHP with configura
 #          10. phpmyadmin                               #
 #                                                       #
 #                                                       #
-#########################################################
 
 #HOW TO RUN
 
