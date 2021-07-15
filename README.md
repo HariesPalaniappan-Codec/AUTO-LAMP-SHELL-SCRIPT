@@ -3,25 +3,25 @@ A Shell Script Automatically installs Laravel, Apache, MySQL, PHP with configura
 
 #CONTENTS
 
-echo "#########################################################"
-echo "#   AUTO LAMP SCRIPT (AIO) - [ AUTHOR :  HARIES_DEV ]   #"
-echo "#########################################################"
-echo "#                                                       #"
-echo "#                                                       #"
-echo "#                       CONTENTS                        #"
-echo "#           1. Apache                                   #"
-echo "#           2. PHP                                      #"
-echo "#           3. PHP Extensions                           #"
-echo "#           4. My SQL Server                            #"
-echo "#           5. GIT                                      #"
-echo "#           6. Redish                                   #"
-echo "#           7. Supervisord                              #"
-echo "#           8. Composer                                 #"
-echo "#           9. Curl & Unzip                             #"
-echo "#          10. phpmyadmin                               #"
-echo "#                                                       #"
-echo "#                                                       #"
-echo "#########################################################"
+#########################################################
+#   AUTO LAMP SCRIPT (AIO) - [ AUTHOR :  HARIES_DEV ]   #
+#########################################################
+#                                                       #
+#                                                       #
+#                       CONTENTS                        #
+#           1. Apache                                   #
+#           2. PHP                                      #
+#           3. PHP Extensions                           #
+#           4. My SQL Server                            #
+#           5. GIT                                      #
+#           6. Redish                                   #
+#           7. Supervisord                              #
+#           8. Composer                                 #
+#           9. Curl & Unzip                             #
+#          10. phpmyadmin                               #
+#                                                       #
+#                                                       #
+#########################################################
 
 #HOW TO RUN
 
