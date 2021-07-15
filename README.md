@@ -14,11 +14,9 @@ A Shell Script Automatically installs Laravel, Apache, MySQL, PHP with configura
 #           3. PHP Extensions                           #
 #           4. My SQL Server                            #
 #           5. GIT                                      #
-#           6. Redish                                   #
-#           7. Supervisord                              #
-#           8. Composer                                 #
-#           9. Curl & Unzip                             #
-#          10. phpmyadmin                               #
+#           6. Supervisord                              #
+#           7. Composer                                 #
+#           8. phpmyadmin                               #
 #                                                       #
 #                                                       #
 
