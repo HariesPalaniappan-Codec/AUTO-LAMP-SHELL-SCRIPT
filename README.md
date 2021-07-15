@@ -25,8 +25,8 @@ A Shell Script Automatically installs Laravel, Apache, MySQL, PHP with configura
 #HOW TO RUN
 
 1. Open terminal in VPS/RDP
-3. git clone https://github.com/haries-dev/AUTO_LAMP.git 
-4. cd AUTO_LAMP && chmod 777 ./auto_lamp.sh
-5. ./auto_lamp.sh
+2. git clone https://github.com/haries-dev/AUTO_LAMP.git 
+3. cd AUTO_LAMP && chmod 777 ./auto_lamp.sh && ./auto_lamp.sh
+
 
 @Happy_Coding :)
