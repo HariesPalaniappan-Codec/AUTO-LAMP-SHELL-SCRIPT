@@ -2,6 +2,7 @@
 A Shell Script Automatically installs Laravel, Apache, MySQL, PHP with configuration in VPS/RDP easily. 
 
 #CONTENTS
+
 ###################################################################
 #   AUTO LAMP SCRIPT (AIO) - [ AUTHOR :  HARIES_DEV ]   #
 ###################################################################
